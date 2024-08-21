@@ -1,4 +1,4 @@
-![logo]
+![logo](https://github.com/AbhisekSamal42/AbhisekSamal42/blob/main/wp7133291.webp)
 <h1 align="center">Hi 👋, I'm Abhisek Samal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
